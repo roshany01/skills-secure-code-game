@@ -1,6 +1,7 @@
 // importing the File class
 //comment for Squash demo
 //commit1
+//commit2
 import java.io.File;
 
 class Main {
