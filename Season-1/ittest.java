@@ -1,4 +1,5 @@
 // importing the File class
+//comment for Squash demo
 import java.io.File;
 
 class Main {
